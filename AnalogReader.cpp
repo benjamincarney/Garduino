@@ -5,7 +5,7 @@
 AnalogReader::AnalogReader(const int pin) : m_pin(pin) {}
 
 /**
- * Read analog value from board ADC
+ * Read analog value from board DC
  */
 int AnalogReader::read()
 {
