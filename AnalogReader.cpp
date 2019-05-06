@@ -5,7 +5,7 @@
 AnalogReader::AnalogReader(const int pin) : m_pin(pin) {}
 
 /**
- * Read analog value from bo
+ * Read analog value from b
  */
 int AnalogReader::read()
 {
