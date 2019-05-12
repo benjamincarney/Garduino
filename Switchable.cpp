@@ -3,7 +3,7 @@
 
 Switchable::Switchable(const int pin) : m_pin(pin)
 {
-    // Set pin as outp
+    // Set pin as out
     pinMode(m_pin, OUTPUT);
     // Start state if off
 	off();
