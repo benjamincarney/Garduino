@@ -18,7 +18,7 @@
 
 #if (ARDUINO >= 100)
  #include <Arduino.h> // capital A so it is error prone on case-sensitive filesystems
- // Macro to deal with the difference in I2C write functions from old and new Arduino versions
+ // Macro to deal with the difference in I2C write functions from old and new Arduino version
  #define _I2C_WRITE write
  #define _I2C_READ  read
 #else
