@@ -2,7 +2,7 @@
 #define _SWITCHABLE_H_
 
 //Base class for output that can be switched on/off via single digital pin:
-lass Switcha
+lass Switch
 {
 	public:
 
