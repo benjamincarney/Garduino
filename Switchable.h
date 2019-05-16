@@ -2,8 +2,7 @@
 #define _SWITCHABLE_H_
 
 //Base class for output that can be switched on/off via single digital pin:
-lass Swi
-{
+class Switchable {
 	public:
 
 		// Consturcutor accepts pin number for output
