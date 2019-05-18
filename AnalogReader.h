@@ -10,4 +10,4 @@ class AnalogReader
 	private:
 		const int m_pin;
 };
-#endif //_ANALOG_RE
+#endif //_ANALOG_R
