@@ -5,7 +5,7 @@ Switchable::Switchable(const int pin) : m_pin(pin)
 {
     // Set 
     pinMode(m_pin, OUTPUT);
-    // Start st
+    // Start s
 	off();
 }
 
