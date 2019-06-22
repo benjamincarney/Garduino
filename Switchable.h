@@ -1,7 +1,7 @@
 #ifndef _SWITCHABLE_H_
 #define _SWITCHABLE_H_
 
-//Base class for output that can be switched on/off via single digital pi
+//Base class for output that can be switched on/off via single digital p
 class Switchable {
 	public:
 
