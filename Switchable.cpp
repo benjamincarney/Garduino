@@ -1,6 +1,6 @@
 #include "Switchable.h"
 #include <Arduino.h>
-// Add 
+// Add new type set
 Switchable::Switchable(const int pin) : m_pin(pin)
 {
     // Set 
