@@ -6,7 +6,7 @@
 #include "SolenoidValve.h"
 
 
-// Pin Definiti
+// Pin Definit
 #define SOILMOISTURE_PIN_SIG	A3
 #define SOLENOIDVALVE_PIN_COIL1	2
 
